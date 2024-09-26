@@ -1,4 +1,4 @@
-# Real-time Object Detection in Adverse Conditions
+# Object Detection in Adverse Conditions: Developing a Robust System for Low Light, Rain, and Fog
 
 This project focuses on real-time object detection in adverse weather conditions (e.g., foggy environments) using **YOLOv5** and **OpenCV**. The goal is to detect and track objects efficiently even when visibility is low.
 
